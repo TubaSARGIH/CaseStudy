@@ -1,0 +1,252 @@
+2021-12-05 01:26:48 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 01:32:16 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 01:33:49 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 01:38:56 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 01:39:56 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 01:40:03 INFO  MyLogger:127 - CHROME driver is initialized..
+2021-12-05 01:40:03 INFO  MyLogger:14 - Open Hepsiburada Login URL.
+2021-12-05 01:40:05 INFO  MyLogger:17 - Get input username from properties file and put it into the textbox.
+2021-12-05 01:40:05 INFO  MyLogger:28 - username: tubaasik@gmail.com
+2021-12-05 01:40:08 INFO  MyLogger:23 - Click login button
+2021-12-05 01:40:09 INFO  MyLogger:236 - Closing Browser.
+2021-12-05 01:43:26 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 01:43:33 INFO  MyLogger:127 - CHROME driver is initialized..
+2021-12-05 01:43:34 INFO  MyLogger:14 - Open Hepsiburada Login URL.
+2021-12-05 01:43:36 INFO  MyLogger:17 - Get input username from properties file and put it into the textbox.
+2021-12-05 01:43:36 INFO  MyLogger:28 - username: tubaasik@gmail.com
+2021-12-05 01:43:44 INFO  MyLogger:236 - Closing Browser.
+2021-12-05 01:53:26 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 01:55:46 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 01:55:59 INFO  MyLogger:104 - Firefox driver is initialized..
+2021-12-05 01:56:00 INFO  MyLogger:14 - Open Hepsiburada Login URL.
+2021-12-05 01:56:06 INFO  MyLogger:17 - Get input username from properties file and put it into the textbox.
+2021-12-05 01:56:06 INFO  MyLogger:28 - username: tubaasik@gmail.com
+2021-12-05 01:56:14 INFO  MyLogger:214 - Closing Browser.
+2021-12-05 02:06:27 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 02:06:35 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 02:06:36 INFO  MyLogger:16 - Open Hepsiburada Login URL.
+2021-12-05 02:06:40 INFO  MyLogger:19 - Get input username from properties file and put it into the textbox.
+2021-12-05 02:06:40 INFO  MyLogger:28 - username: ttubaasik@gmail.com
+2021-12-05 02:06:42 INFO  MyLogger:23 - Press Enter
+2021-12-05 02:06:44 INFO  MyLogger:214 - Closing Browser.
+2021-12-05 02:08:41 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 02:08:47 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 02:08:48 INFO  MyLogger:16 - Open Hepsiburada Login URL.
+2021-12-05 02:08:50 INFO  MyLogger:19 - Get input username from properties file and put it into the textbox.
+2021-12-05 02:08:50 INFO  MyLogger:28 - username: ttubaasik@gmail.com
+2021-12-05 02:08:53 INFO  MyLogger:23 - Press Enter
+2021-12-05 02:10:56 INFO  MyLogger:214 - Closing Browser.
+2021-12-05 02:18:39 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 02:18:47 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 02:18:48 INFO  MyLogger:16 - Open Hepsiburada Login URL.
+2021-12-05 02:18:51 INFO  MyLogger:19 - Get input username from properties file and put it into the textbox.
+2021-12-05 02:18:51 INFO  MyLogger:32 - username: ttubaasik@gmail.com
+2021-12-05 02:18:53 INFO  MyLogger:23 - Press Enter
+2021-12-05 02:18:54 INFO  MyLogger:37 - enter pass
+2021-12-05 02:19:25 INFO  MyLogger:214 - Closing Browser.
+2021-12-05 02:42:39 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 02:42:47 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 02:42:48 INFO  MyLogger:17 - Open Hepsiburada Login URL.
+2021-12-05 02:42:50 INFO  MyLogger:20 - Get input username from properties file and put it into the textbox.
+2021-12-05 02:42:50 INFO  MyLogger:32 - username: ttubaasik@gmail.com
+2021-12-05 02:42:53 INFO  MyLogger:24 - Press Enter
+2021-12-05 02:42:54 INFO  MyLogger:37 - enter pass
+2021-12-05 02:43:25 INFO  MyLogger:214 - Closing Browser.
+2021-12-05 02:51:59 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 02:52:06 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 02:52:07 INFO  MyLogger:17 - Open Hepsiburada Login URL.
+2021-12-05 02:52:09 INFO  MyLogger:20 - Get input username from properties file and put it into the textbox.
+2021-12-05 02:52:09 INFO  MyLogger:32 - username: ttubaasik@gmail.com
+2021-12-05 02:52:11 INFO  MyLogger:24 - Press Enter
+2021-12-05 02:52:13 INFO  MyLogger:214 - Closing Browser.
+2021-12-05 02:53:41 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 02:53:48 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 02:53:49 INFO  MyLogger:17 - Open Hepsiburada Login URL.
+2021-12-05 02:53:52 INFO  MyLogger:20 - Get input username from properties file and put it into the textbox.
+2021-12-05 02:53:52 INFO  MyLogger:32 - username: ttubaasik@gmail.com
+2021-12-05 02:53:55 INFO  MyLogger:24 - Press Enter
+2021-12-05 02:56:47 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 02:56:55 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 02:56:56 INFO  MyLogger:17 - Open Hepsiburada Login URL.
+2021-12-05 02:56:58 INFO  MyLogger:20 - Get input username from properties file and put it into the textbox.
+2021-12-05 02:56:58 INFO  MyLogger:32 - username: ttubaasik@gmail.com
+2021-12-05 02:57:01 INFO  MyLogger:24 - Press Enter
+2021-12-05 02:57:37 ERROR MyLogger:179 - Captured Screenshot for Failure: C:\Users\Tuba\IdeaProjects\selenium_automation\screenshot\suite\20211205025712750_.png
+2021-12-05 02:57:40 INFO  MyLogger:37 - enter pass
+2021-12-05 03:04:00 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 03:04:08 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 03:04:09 INFO  MyLogger:17 - Open Hepsiburada Login URL.
+2021-12-05 03:04:11 INFO  MyLogger:20 - Get input username from properties file and put it into the textbox.
+2021-12-05 03:04:11 INFO  MyLogger:32 - username: tubaasik@gmail.com
+2021-12-05 03:04:14 INFO  MyLogger:24 - Press Enter
+2021-12-05 03:04:15 INFO  MyLogger:27 - Get input password from properties file and put it into the textbox.
+2021-12-05 03:04:15 INFO  MyLogger:37 - enter pass
+2021-12-05 03:04:17 INFO  MyLogger:214 - Closing Browser.
+2021-12-05 03:20:09 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 03:20:18 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 03:20:19 INFO  MyLogger:19 - Open Hepsiburada Login URL.
+2021-12-05 03:20:21 INFO  MyLogger:22 - Get input username from properties file and put it into the textbox.
+2021-12-05 03:20:21 INFO  MyLogger:35 - username: tubaasik@gmail.com
+2021-12-05 03:20:24 INFO  MyLogger:26 - Press Enter
+2021-12-05 03:20:25 INFO  MyLogger:29 - Get input password from properties file and put it into the textbox.
+2021-12-05 03:20:25 INFO  MyLogger:40 - enter pass
+2021-12-05 03:20:26 INFO  MyLogger:214 - Closing Browser.
+2021-12-05 03:25:55 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 03:26:03 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 03:26:04 INFO  MyLogger:19 - Open Hepsiburada Login URL.
+2021-12-05 03:26:06 INFO  MyLogger:22 - Get input username from properties file and put it into the textbox.
+2021-12-05 03:26:06 INFO  MyLogger:35 - username: tubaasik@gmail.com
+2021-12-05 03:26:09 INFO  MyLogger:26 - Press Enter
+2021-12-05 03:26:10 INFO  MyLogger:29 - Get input password from properties file and put it into the textbox.
+2021-12-05 03:26:10 INFO  MyLogger:40 - enter pass
+2021-12-05 03:26:11 INFO  MyLogger:214 - Closing Browser.
+2021-12-05 03:26:33 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 03:26:40 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 03:26:41 INFO  MyLogger:19 - Open Hepsiburada Login URL.
+2021-12-05 03:26:43 INFO  MyLogger:22 - Get input username from properties file and put it into the textbox.
+2021-12-05 03:26:43 INFO  MyLogger:35 - username: tubaasik@gmail.com
+2021-12-05 03:26:46 INFO  MyLogger:26 - Press Enter
+2021-12-05 03:26:47 INFO  MyLogger:29 - Get input password from properties file and put it into the textbox.
+2021-12-05 03:29:50 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 03:29:58 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 03:29:59 INFO  MyLogger:19 - Open Hepsiburada Login URL.
+2021-12-05 03:30:01 INFO  MyLogger:22 - Get input username from properties file and put it into the textbox.
+2021-12-05 03:30:01 INFO  MyLogger:34 - username: tubaasik@gmail.com
+2021-12-05 03:30:03 INFO  MyLogger:26 - Press Enter
+2021-12-05 03:30:04 INFO  MyLogger:29 - Get input password from properties file and put it into the textbox.
+2021-12-05 03:30:28 INFO  MyLogger:39 - enter pass
+2021-12-05 03:30:44 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 03:30:51 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 03:30:52 INFO  MyLogger:19 - Open Hepsiburada Login URL.
+2021-12-05 03:30:54 INFO  MyLogger:22 - Get input username from properties file and put it into the textbox.
+2021-12-05 03:30:54 INFO  MyLogger:34 - username: tubaasik@gmail.com
+2021-12-05 03:30:56 INFO  MyLogger:26 - Press Enter
+2021-12-05 03:30:57 INFO  MyLogger:29 - Get input password from properties file and put it into the textbox.
+2021-12-05 03:30:58 INFO  MyLogger:39 - enter pass
+2021-12-05 03:30:59 INFO  MyLogger:34 - Get input bookname from properties file and put it into the textbox.
+2021-12-05 03:31:00 INFO  MyLogger:214 - Closing Browser.
+2021-12-05 03:32:14 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 03:32:20 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 03:32:21 INFO  MyLogger:19 - Open Hepsiburada Login URL.
+2021-12-05 03:32:23 INFO  MyLogger:22 - Get input username from properties file and put it into the textbox.
+2021-12-05 03:32:23 INFO  MyLogger:34 - username: tubaasik@gmail.com
+2021-12-05 03:32:25 INFO  MyLogger:26 - Press Enter
+2021-12-05 03:32:26 INFO  MyLogger:29 - Get input password from properties file and put it into the textbox.
+2021-12-05 03:32:26 INFO  MyLogger:39 - enter pass
+2021-12-05 03:32:28 INFO  MyLogger:34 - Get input bookname from properties file and put it into the textbox.
+2021-12-05 03:33:23 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 03:33:30 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 03:33:31 INFO  MyLogger:19 - Open Hepsiburada Login URL.
+2021-12-05 03:33:33 INFO  MyLogger:22 - Get input username from properties file and put it into the textbox.
+2021-12-05 03:33:33 INFO  MyLogger:34 - username: tubaasik@gmail.com
+2021-12-05 03:33:35 INFO  MyLogger:26 - Press Enter
+2021-12-05 03:33:36 INFO  MyLogger:29 - Get input password from properties file and put it into the textbox.
+2021-12-05 03:33:37 INFO  MyLogger:39 - enter pass
+2021-12-05 03:33:38 INFO  MyLogger:34 - Get input bookname from properties file and put it into the textbox.
+2021-12-05 03:34:00 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 03:34:08 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 03:34:08 INFO  MyLogger:19 - Open Hepsiburada Login URL.
+2021-12-05 03:34:10 INFO  MyLogger:22 - Get input username from properties file and put it into the textbox.
+2021-12-05 03:34:10 INFO  MyLogger:34 - username: tubaasik@gmail.com
+2021-12-05 03:34:12 INFO  MyLogger:26 - Press Enter
+2021-12-05 03:34:13 INFO  MyLogger:29 - Get input password from properties file and put it into the textbox.
+2021-12-05 03:34:14 INFO  MyLogger:39 - enter pass
+2021-12-05 03:34:15 INFO  MyLogger:34 - Get input bookname from properties file and put it into the textbox.
+2021-12-05 03:35:03 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 03:35:10 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 03:35:10 INFO  MyLogger:19 - Open Hepsiburada Login URL.
+2021-12-05 03:35:12 INFO  MyLogger:22 - Get input username from properties file and put it into the textbox.
+2021-12-05 03:35:12 INFO  MyLogger:34 - username: tubaasik@gmail.com
+2021-12-05 03:35:14 INFO  MyLogger:26 - Press Enter
+2021-12-05 03:35:15 INFO  MyLogger:29 - Get input password from properties file and put it into the textbox.
+2021-12-05 03:35:16 INFO  MyLogger:39 - enter pass
+2021-12-05 03:35:17 INFO  MyLogger:34 - Get input bookname from properties file and put it into the textbox.
+2021-12-05 03:36:02 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 03:36:11 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 03:36:11 INFO  MyLogger:19 - Open Hepsiburada Login URL.
+2021-12-05 03:36:13 INFO  MyLogger:22 - Get input username from properties file and put it into the textbox.
+2021-12-05 03:36:14 INFO  MyLogger:34 - username: tubaasik@gmail.com
+2021-12-05 03:36:16 INFO  MyLogger:26 - Press Enter
+2021-12-05 03:36:17 INFO  MyLogger:29 - Get input password from properties file and put it into the textbox.
+2021-12-05 03:36:47 INFO  MyLogger:39 - enter pass
+2021-12-05 03:58:15 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 03:58:24 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 03:58:25 INFO  MyLogger:20 - Open Hepsiburada Login URL.
+2021-12-05 03:58:27 INFO  MyLogger:23 - Get input username from properties file and put it into the textbox.
+2021-12-05 03:58:27 INFO  MyLogger:34 - username: tubaasik@gmail.com
+2021-12-05 03:58:30 INFO  MyLogger:27 - Press Enter
+2021-12-05 03:58:31 INFO  MyLogger:30 - Get input password from properties file and put it into the textbox.
+2021-12-05 03:58:31 INFO  MyLogger:39 - enter pass
+2021-12-05 03:58:33 INFO  MyLogger:35 - Go to product page and add to cart.
+2021-12-05 04:00:13 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 04:00:19 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 04:00:20 INFO  MyLogger:20 - Open Hepsiburada Login URL.
+2021-12-05 04:00:21 INFO  MyLogger:23 - Get input username from properties file and put it into the textbox.
+2021-12-05 04:00:22 INFO  MyLogger:34 - username: tubaasik@gmail.com
+2021-12-05 04:00:24 INFO  MyLogger:27 - Press Enter
+2021-12-05 04:00:25 INFO  MyLogger:30 - Get input password from properties file and put it into the textbox.
+2021-12-05 04:00:25 INFO  MyLogger:39 - enter pass
+2021-12-05 04:00:27 INFO  MyLogger:35 - Go to product page and add to cart.
+2021-12-05 04:01:50 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 04:01:58 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 04:01:58 INFO  MyLogger:20 - Open Hepsiburada Login URL.
+2021-12-05 04:02:01 INFO  MyLogger:23 - Get input username from properties file and put it into the textbox.
+2021-12-05 04:02:01 INFO  MyLogger:34 - username: tubaasik@gmail.com
+2021-12-05 04:02:03 INFO  MyLogger:27 - Press Enter
+2021-12-05 04:02:04 INFO  MyLogger:30 - Get input password from properties file and put it into the textbox.
+2021-12-05 04:02:05 INFO  MyLogger:39 - enter pass
+2021-12-05 04:02:06 INFO  MyLogger:35 - Go to product page and add to cart.
+2021-12-05 04:02:31 INFO  MyLogger:42 - Go to checkout page and click continue.
+2021-12-05 04:03:38 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 04:03:46 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 04:03:47 INFO  MyLogger:20 - Open Hepsiburada Login URL.
+2021-12-05 04:03:49 INFO  MyLogger:23 - Get input username from properties file and put it into the textbox.
+2021-12-05 04:03:49 INFO  MyLogger:34 - username: tubaasik@gmail.com
+2021-12-05 04:03:51 INFO  MyLogger:27 - Press Enter
+2021-12-05 04:03:52 INFO  MyLogger:30 - Get input password from properties file and put it into the textbox.
+2021-12-05 04:03:53 INFO  MyLogger:39 - enter pass
+2021-12-05 04:03:54 INFO  MyLogger:35 - Go to product page and add to cart.
+2021-12-05 04:04:21 INFO  MyLogger:42 - Go to checkout page and click continue.
+2021-12-05 04:06:26 INFO  MyLogger:214 - Closing Browser.
+2021-12-05 04:09:48 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 04:09:56 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 04:09:56 INFO  MyLogger:20 - Open Hepsiburada Login URL.
+2021-12-05 04:09:58 INFO  MyLogger:23 - Get input username from properties file and put it into the textbox.
+2021-12-05 04:09:58 INFO  MyLogger:34 - username: tubaasik@gmail.com
+2021-12-05 04:10:02 INFO  MyLogger:27 - Press Enter
+2021-12-05 04:10:03 INFO  MyLogger:30 - Get input password from properties file and put it into the textbox.
+2021-12-05 04:10:03 INFO  MyLogger:39 - enter pass
+2021-12-05 04:10:05 INFO  MyLogger:35 - Go to product page and add to cart.
+2021-12-05 04:10:28 INFO  MyLogger:42 - Go to checkout page and click continue.
+2021-12-05 04:12:51 INFO  MyLogger:51 - Assert actual searched string with expected string from properties file.
+2021-12-05 04:14:55 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 04:15:04 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 04:15:04 INFO  MyLogger:21 - Open Hepsiburada Login URL.
+2021-12-05 04:15:07 INFO  MyLogger:24 - Get input username from properties file and put it into the textbox.
+2021-12-05 04:15:07 INFO  MyLogger:34 - username: tubaasik@gmail.com
+2021-12-05 04:15:10 INFO  MyLogger:28 - Press Enter
+2021-12-05 04:15:11 INFO  MyLogger:31 - Get input password from properties file and put it into the textbox.
+2021-12-05 04:15:12 INFO  MyLogger:39 - enter pass
+2021-12-05 04:15:13 INFO  MyLogger:36 - Go to product page and add to cart.
+2021-12-05 04:15:53 INFO  MyLogger:21 - Click addtocart button
+2021-12-05 04:15:55 INFO  MyLogger:43 - Go to checkout page and click continue.
+2021-12-05 04:15:59 INFO  MyLogger:21 - Click continue button
+2021-12-05 04:16:02 INFO  MyLogger:21 - Click continue button
+2021-12-05 04:16:04 INFO  MyLogger:214 - Closing Browser.
+2021-12-05 04:29:24 INFO  MyLogger:60 - Logger is initialized..
+2021-12-05 04:29:31 INFO  MyLogger:115 - CHROME driver is initialized..
+2021-12-05 04:29:32 INFO  MyLogger:22 - Open Hepsiburada Login URL.
+2021-12-05 04:29:34 INFO  MyLogger:25 - Get input username from properties file and put it into the textbox.
+2021-12-05 04:29:34 INFO  MyLogger:34 - username: tubaasik@gmail.com
+2021-12-05 04:29:37 INFO  MyLogger:29 - Press Enter
+2021-12-05 04:29:38 INFO  MyLogger:32 - Get input password from properties file and put it into the textbox.
+2021-12-05 04:29:38 INFO  MyLogger:39 - enter pass
+2021-12-05 04:29:40 INFO  MyLogger:37 - Go to product page and add to cart.
+2021-12-05 04:30:02 INFO  MyLogger:21 - Click addtocart button
+2021-12-05 04:30:03 INFO  MyLogger:44 - Go to checkout page and click continue.
+2021-12-05 04:30:07 INFO  MyLogger:21 - Click continue button
+2021-12-05 04:30:09 INFO  MyLogger:21 - Click continue button
+2021-12-05 04:30:10 INFO  MyLogger:51 - Control url is same
+2021-12-05 04:30:13 INFO  MyLogger:21 - Click continue button
+2021-12-05 04:30:15 INFO  MyLogger:74 - Test end
+2021-12-05 04:30:16 INFO  MyLogger:214 - Closing Browser.
